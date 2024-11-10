@@ -45,7 +45,7 @@ const Projects = () => {
                     rel='noopener noreferrer'
                     className='text-blue-500 hover:underline'
                   >
-                    View on GitHub
+                    View 
                   </a>
                 </div>
               )}

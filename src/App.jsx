@@ -1,4 +1,5 @@
 import Aboutme from './components/Aboutme';
+
 import Contact from './components/Contact';
 import HERO from './components/HERO';
 import Navbar from './components/Navbar';
@@ -19,9 +20,10 @@ const App = () => {
       <div className='container mx-auto px-8'>
       <Navbar />
         <HERO />
-        <Aboutme />
+        
         <Technologies/>
         <Projects/>
+       
         <Contact/>
       </div>
     </div>
